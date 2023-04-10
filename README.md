@@ -2,6 +2,8 @@
 This was supposed to be a private project before someone leaked it...
 
 ## Lua Dumper Usage: 
+**WARNING: SINCE THE LUA IS NOW OPEN SOURCE, NEVERLOSE STAFF CAN EASILY CHECK IF YOU HAVE RAN THE LUA OR NOT RESULTING IN THE BAN OF YOUR ACCOUNT**
+
 load the lua that you want to "borrow",
 
 load the dumper lua,
