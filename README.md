@@ -31,5 +31,8 @@ find the neverlose located @ C:\Program Files (x86)\Steam\steamapps\common\Count
 
 because some retarded guinea pig leaked it :) thus we had to make it public
 
+## Have you told neverlose staff about this?
+
+Yes we have, and twice actually, but they didn't respond to us in time leading to this release
 
 [My Soul, Your Beats!](https://youtu.be/zIFV8UUs1-c)
