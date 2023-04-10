@@ -41,6 +41,8 @@ find the neverlose located @ C:\Program Files (x86)\Steam\steamapps\common\Count
 because some retarded **CHINAMAN** guinea pig leaked it :) thus we had to make it public.
 else this would not have happened until later this month. Sadly.
 
+as you can see, the code base is cluttered and full of random shit just sitting there waiting to be disposed of. We would like to refine the code but those retards didn't give us enough time to make everything perfect. Anyways I hope you guys had fun and happy easter!
+
 ## Have you told neverlose staff about this?
 
 Yes we have, and twice actually, but they didn't respond to us in time leading to this release
