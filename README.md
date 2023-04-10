@@ -30,7 +30,7 @@ dumped lua is located @ C:\Program Files (x86)\Steam\steamapps\common\Counter-St
 it contains more than just the lua itself, the beginning is the neverlose internal lua which gets loaded along with every loaded script, and then the actual lua that is getting loaded (closed source scripts are compiled to ljbc while open sourced scripts are in plain text), plus the strings that were passed into the lua loadstring() function, so depending on which lua you are trying to "borrow", it may contain more than just one ljbc/lua, you need to separate them and decompile them yourself
 
 ## Dll dumper Usage:
-**WARNING THE DLL DUMPER CURRENTLY WORKS BUT IT WILL BE PATCHED VERY SOON, PLEASE BE CAREFUL**
+**DO NOT LOAD IT ANYMORE, IT **WILL** RESULT IN BAN**
 
 load the lua
 
