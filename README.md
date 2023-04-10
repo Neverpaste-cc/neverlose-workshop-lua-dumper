@@ -41,4 +41,8 @@ Oh, joyous day! I simply had to share the news with you all: your cheat is undou
 https://imgur.com/a/IfT2R5S
 ```
 
+## Are you scared of getting RAT from neverlose?
+
+No, **if** they rat us, we will let all of the neverlose customers know what exactly they did. 
+
 [My Soul, Your Beats!](https://youtu.be/zIFV8UUs1-c)
