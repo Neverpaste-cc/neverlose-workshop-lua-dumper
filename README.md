@@ -36,6 +36,10 @@ load the lua
 
 find the neverlose located @ C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\cooldump_0xCAFEBABE.bin
 
+## Why are the dumps named UwU.lulz
+
+![lulz.png](lulz.png)
+
 ## Why has this become public?
 
 because some retarded **CHINAMAN** guinea pig leaked it :) thus we had to make it public.
