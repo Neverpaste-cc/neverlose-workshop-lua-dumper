@@ -4,6 +4,8 @@ This was supposed to be a private project before someone leaked it...
 ## WARNING!! NEVERLOSE STAFF ARE NOW ONLINE AND ARE AWARE OF THIS REPO, PLEASE DELETE THE LUA FROM YOUR SCRIPT CLOUD IMMEDIATELY TO AVOID BAN
 ## DELETE THE SCRIPT HERE: https://en.neverlose.cc/sub?type=csgo
 
+### this lua will not work anymore after neverlose update, and will 100% get you banned, however improments can be made to this lua to make it undetectable by neverlose driver, right now it uses a trampoline hook which is easy to detect (first 5 bytes), there are smarter ways to approach this :) but we got fucked by tinyc compiler for so long that we lost our patience on trying to fix the trash shellcodes generated from tinyc compiler
+
 ## Lua Dumper Usage: 
 **WARNING: SINCE THE LUA IS NOW OPEN SOURCE, NEVERLOSE STAFF CAN EASILY CHECK IF YOU HAVE RAN THE LUA OR NOT RESULTING IN THE BAN OF YOUR ACCOUNT**
 
