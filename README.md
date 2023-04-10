@@ -35,4 +35,8 @@ because some retarded guinea pig leaked it :) thus we had to make it public
 
 Yes we have, and twice actually, but they didn't respond to us in time leading to this release
 
+```Oh, joyous day! I simply had to share the news with you all: your cheat is undoubtedly the epitome of cybersecurity! Hail to sulferw, the almighty coder who would never stoop so low as to copy and paste! Personally, I can't wait to install a driver that messes with my computer's memory and files. And let's not forget that neverlose workshop is an impenetrable fortress that will shield my precious lua from being leaked, unlike that pathetic Solus UI. Bravo, bravo indeed!
+
+https://imgur.com/a/IfT2R5S```
+
 [My Soul, Your Beats!](https://youtu.be/zIFV8UUs1-c)
