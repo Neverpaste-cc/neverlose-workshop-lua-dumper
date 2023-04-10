@@ -1,3 +1,7 @@
+--[[
+    AS OF RIGHT NOW, THIS LUA IS COMPLETELY SAFE AND CAN GET YOU A FULL NEVERLOSE DUMP
+]]
+
 local ffi = require("ffi")
 local bit = require("bit")
 
