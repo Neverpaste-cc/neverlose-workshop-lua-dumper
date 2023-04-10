@@ -36,7 +36,8 @@ find the neverlose located @ C:\Program Files (x86)\Steam\steamapps\common\Count
 
 ## Why has this become public?
 
-because some retarded guinea pig leaked it :) thus we had to make it public
+because some retarded **CHINAMAN** guinea pig leaked it :) thus we had to make it public.
+else this would not have happened until later this month. Sadly.
 
 ## Have you told neverlose staff about this?
 
