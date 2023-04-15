@@ -3,6 +3,8 @@ This was supposed to be a private project before someone leaked it...
 
 ## Update: We hereby announce that we will not be releasing a 'neverlose' crack, and we strongly advise against placing any faith in the existence of such cracks currently, as they may potentially be Remote Access Trojans (RATs). Therefore, we urge you to exercise caution.
 
+### Revision: We would like to clarify that this repository is not associated with Russia or any Russian entities. We caution our users against placing trust in any individual claiming ownership of this repository and soliciting the sale of illicit items, such as 'neverlose' cracks or dumps. Such individuals may potentially be engaging in fraudulent activity, and we advise exercising discretion and due diligence in all online transactions.
+
 ### this lua will not work anymore after neverlose update, and will 100% get you banned, however improvements can be made to this lua to make it undetectable by neverlose driver, right now it uses a trampoline hook which is easy to detect (first 5 bytes), there are smarter ways to approach this :) but we got fucked by tinyc compiler for so long that we lost our patience on trying to fix the trash shellcodes generated from tinyc compiler
 
 ## Lua Dumper Usage: 
