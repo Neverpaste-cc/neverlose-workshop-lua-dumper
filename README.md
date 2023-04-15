@@ -1,8 +1,7 @@
 # neverlose-workshop-lua-dumper
 This was supposed to be a private project before someone leaked it...
 
-## WARNING!! NEVERLOSE STAFF ARE NOW ONLINE AND ARE AWARE OF THIS REPO, PLEASE DELETE THE LUA FROM YOUR SCRIPT CLOUD IMMEDIATELY TO AVOID BAN
-## DELETE THE SCRIPT HERE: https://en.neverlose.cc/sub?type=csgo
+## Update: We hereby announce that we will not be releasing a 'neverlose' crack, and we strongly advise against placing any faith in the existence of such cracks currently, as they may potentially be Remote Access Trojans (RATs). Therefore, we urge you to exercise caution.
 
 ### this lua will not work anymore after neverlose update, and will 100% get you banned, however improvements can be made to this lua to make it undetectable by neverlose driver, right now it uses a trampoline hook which is easy to detect (first 5 bytes), there are smarter ways to approach this :) but we got fucked by tinyc compiler for so long that we lost our patience on trying to fix the trash shellcodes generated from tinyc compiler
 
